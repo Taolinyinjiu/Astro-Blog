@@ -1,0 +1,44 @@
+.friends {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+    font-size: .9rem;
+}
+
+.friends>a {
+    display: grid;
+    grid-template-areas: 'name avatar' 'desc avatar';
+    justify-content: space-between;
+    align-items: center;
+    gap: 0 .5rem;
+    transition: all .2s;
+    border-radius: .5rem;
+    background: var(--tw-prose-quote-borders);
+    padding: .5rem;
+    color: inherit;
+    text-decoration: none;
+}
+
+.friends>a:hover {
+    background: var(--tw-prose-bullets);
+}
+
+.friends>a>* {
+    margin: 0;
+}
+
+.friends>a>h2 {
+    grid-area: name;
+    font-size: 1.25em;
+}
+
+.friends>a>p {
+    grid-area: desc;
+    line-height: 1.2;
+}
+
+.friends>a>img {
+    grid-area: avatar;
+    height: 64px;
+}
