@@ -1,22 +1,32 @@
 ---
-import { FooterDescription, Hide } from '~/config';
+import { FooterDescription, Hide } from "~/config";
 ---
 
 <footer class="mt-[3dvh] text-center lg:mt-[4dvh]" transition:persist>
-	{!Hide.includes('footerDescription') && <p class="mb-[1dvh] lg:mb-[2dvh]">{FooterDescription}</p>}
+	{
+		!Hide.includes("footerDescription") && (
+			<p class="mb-[1dvh] lg:mb-[2dvh]">{FooterDescription}</p>
+		)
+	}
 	<p class="text-neutral-700 opacity-75 dark:text-neutral-300">
-		&copy; {new Date().getFullYear()} Ladit. Powered by <a
+		&copy; {new Date().getFullYear()} 桃林饮酒. 文章使用 <a
+			class="underline"
+			href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"
+			target="_blank"
+			rel="noopener"
+			aria-label="Read more about posts' license">CC BY-NC-SA 4.0</a
+		> 协议. 由 <a
 			class="underline"
 			href="https://astro.build"
 			target="_blank"
 			rel="noopener"
 			aria-label="Read more about Astro">Astro</a
-		>. <a
+		> 和 <a
 			class="underline"
 			href="https://github.com/ladit/astro-blog-zozo"
 			target="_blank"
 			rel="noopener"
-			aria-label="Read more about this theme">Theme</a
-		> by Ladit.
+			aria-label="Read more about this theme">astro-blog-zozo</a
+		> 驱动.
 	</p>
 </footer>
