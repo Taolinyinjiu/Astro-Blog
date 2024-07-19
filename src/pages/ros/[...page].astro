@@ -1,0 +1,42 @@
+---
+// 从astro中导入模块，用于定义静态生成路径
+import type { GetStaticPathsOptions } from 'astro';  
+// 用于博客文章的分页
+import Paginator from '~/components/Paginator.astro';
+// 展示单个博客帖子
+import PostCard from '~/components/PostCardROS.astro';
+// 从配置文件中导入，用于确定页面尺寸
+import { PageSize } from '~/config';
+// ScaffoldLayout是一个布局组件，用于包裹页面内容
+import ScaffoldLayout from '~/layouts/ScaffoldLayout.astro';
+// 表示你只想从collection模块中导入名为getPosts的函数或对象。使用花括号{}将getPosts包围起来，表示选择性导入
+import { getPostsByTag } from '~/utils/collection';
+
+// export async function 是 JavaScript 中用于导出一个异步函数的语法
+// 这个关键字用于导出模块中的函数、类、变量等，使其可以在其他文件或模块中被导入和使用。
+// async: 这是 async function 的一部分，表示这个函数是异步的。异步函数允许你使用 await 表达式来等待一个异步操作（通常是返回 Promise 的函数）完成，而不会阻塞代码的执行流程
+// function: 这是定义函数的关键字
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+	// desc ： 文章将按照日期从新到旧排序。
+	// asc : 文章将按照日期从旧到新排序。
+	return paginate(await getPostsByTag("ROS",false, 'desc'), { pageSize: PageSize });
+}
+
+// 在 Astro 框架中，Astro.props 对象是一个特殊的对象，它包含了组件的属性（props）。
+// 当你在 Astro 组件中使用 Astro.props 时，你可以直接访问在组件的 front-matter 或 API 路由的响应中定义的属性。
+// page 属性通常包含当前页面的元数据和内容。在 Astro 中，当你使用 getStaticProps 或 getStaticPaths 函数时，你可以返回一个对象，该对象会被设置为页面组件的 props
+const { page } = Astro.props;
+
+---
+<!-- 这段代码是一个组件的 JSX 模板，用于在Astro框架中渲染一个博客页面 -->
+<!-- title="Blog": 这是一个属性，将页面的标题设置为 "Blog" -->
+<!-- description="Latest articles.": 这是一个属性，提供了页面的描述，可能是用于搜索引擎优化（SEO） -->
+<!-- currentNav="Blog": 这可能是一个属性，指示当前页面在导航菜单中的激活状态或高亮显示的项 -->
+<ScaffoldLayout title="ROS" description="Latest articles." currentNav="ROS">
+	<!-- {page.data.map((post) => <PostCard {...post} />)}: 这行代码使用了 map 函数遍历 page.data 数组。-->
+	<!-- 对于数组中的每个元素（假设每个元素都是一个博客帖子的数据对象），它都会渲染一个 PostCard 组件，并将当前帖子的数据作为属性传递给 PostCard。 -->
+	{page.data.map((post) => <PostCard {...post} />)}
+	
+	<!--<Paginator {...page} />: 这行代码渲染了一个 Paginator 组件，并将 page 对象的所有属性作为属性传递给它。这可能用于显示分页导航，允许用户在不同的页面之间跳转。  -->
+	<Paginator {...page} />
+</ScaffoldLayout>

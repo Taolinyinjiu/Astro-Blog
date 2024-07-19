@@ -4,19 +4,19 @@ import type { CollectionEntry } from 'astro:content';
 // 导入 MarkdownLayout 组件，这可能是用于渲染 Markdown 内容的布局组件。
 import MarkdownLayout from '~/layouts/MarkdownLayout.astro';
 // 导入 getPosts 函数，用于获取文章数据。
-import { getPosts } from '~/utils/collection';
+import { getPostsByTag } from '~/utils/collection';
 
 // 定义了 getStaticPaths 函数，用于生成静态页面的路径和属性。
 export async function getStaticPaths() {
 	// 使用 getPosts 函数获取所有文章，然后映射出每个文章的路径参数和属性。
-	return (await getPosts()).map((post) => ({
+	return (await getPostsByTag("ROS")).map((post) => ({
 		params: { slug: post.slug },
 		props: post,
 	}));
 }
 
-// 定义了 Props 类型，它是 CollectionEntry 类型的一个实例，用于指定 posts 集合。
-type Props = CollectionEntry<'posts'>;
+// 定义了 Props 类型，它是 CollectionEntry 类型的一个实例，用于指定 ros 集合。
+type Props = CollectionEntry<'ros'>;
 
 // 从 Astro.props 获取传递给组件的属性。
 const post = Astro.props;
@@ -37,6 +37,6 @@ if (typeof remarkPluginFrontmatter.lastmod === 'string') {
 post.data.readingTime = remarkPluginFrontmatter.readingTime;
 ---
 
-<MarkdownLayout {...post.data} socialImage={socialImage} currentNav="Blog">
+<MarkdownLayout {...post.data} socialImage={socialImage} currentNav="ROS">
 	<Content />
 </MarkdownLayout>
