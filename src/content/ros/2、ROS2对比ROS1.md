@@ -13,7 +13,7 @@ tags:
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqtRLzob3iaiaKbwIQichNicGbepBcia2Xn8QhFANcdqcBibOkgHvtia088IicEQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqtRLzob3iaiaKbwIQichNicGbepBcia2Xn8QhFANcdqcBibOkgHvtia088IicEQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq940o9Yapkkiat3zTIU2n2jgHsPKibicOficzdgbg8n9lRaiauR69dicEImhA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq940o9Yapkkiat3zTIU2n2jgHsPKibicOficzdgbg8n9lRaiauR69dicEImhA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -33,7 +33,7 @@ tags:
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqUQMSTVyhyZDqiaY8cibAdDpWAFqJKhuMYKVvuEDBic2K2jvx0OuDLGs9g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqUQMSTVyhyZDqiaY8cibAdDpWAFqJKhuMYKVvuEDBic2K2jvx0OuDLGs9g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -53,7 +53,7 @@ ROS最早的设计目标就是开发这样一款PR2家庭服务机器人，这�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq2c8zexia0d09hk5KLuKpRRY8jZrHRfI67ZpDczKRtc6MrUsz6SzMTdQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq2c8zexia0d09hk5KLuKpRRY8jZrHRfI67ZpDczKRtc6MrUsz6SzMTdQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 随着ROS的普及，应用ROS的机器人类型已经和PR2机器人有了天翻地覆的问题，也并不具备PR2这样的条件，那原本针对PR2设计的软件框架，就会出现一些问题，比如：
 
@@ -69,7 +69,7 @@ ROS2怀揣变革智能机器人时代的历史使命，在设计之初，就考�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqDibLsqWibHdQ2wlONqsh7XmLCqhBPQiaZbN45TfrbMJc6icL90fbLnHW6g/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_gif/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqDibLsqWibHdQ2wlONqsh7XmLCqhBPQiaZbN45TfrbMJc6icL90fbLnHW6g/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 
 
@@ -101,7 +101,7 @@ ROS2怀揣变革智能机器人时代的历史使命，在设计之初，就考�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqkgIU9Avibsrib3K7QO7HaEjyv5WWX8bO6WR39WICYjicxAbOwic5UMicftA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_gif/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqkgIU9Avibsrib3K7QO7HaEjyv5WWX8bO6WR39WICYjicxAbOwic5UMicftA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
 
 
@@ -113,7 +113,7 @@ ROS开发者面对的选择有两个，第一个是在ROS1的架构之上，进�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqKLCiapYwx5OT1ibrbImqic2Hf2WNpZsOKib0VorPm5KbkoMszT8bkcia1mQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqKLCiapYwx5OT1ibrbImqic2Hf2WNpZsOKib0VorPm5KbkoMszT8bkcia1mQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -135,7 +135,7 @@ ROS开发者面对的选择有两个，第一个是在ROS1的架构之上，进�
 
 ##### 系统架构
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqhXASRYnzvSNngJgexk53Dc8NMeTphap9avwKYezdovCibxBTgBsTqVg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqhXASRYnzvSNngJgexk53Dc8NMeTphap9avwKYezdovCibxBTgBsTqVg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -171,7 +171,7 @@ ROS开发者面对的选择有两个，第一个是在ROS1的架构之上，进�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqJyb1tT5QQibjyJ6aGBsRicL1sR7Zp8H1GahiatrVMCxGlOuu4HicaSaO0g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqJyb1tT5QQibjyJ6aGBsRicL1sR7Zp8H1GahiatrVMCxGlOuu4HicaSaO0g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -215,7 +215,7 @@ ROS1应用已经非常广泛，全球有几百万开发者，大家已经熟悉�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq0L6xoA4IlEibKPhvzDBt0PpRaibR3kyxEjKiaUTX5cliadULoKPOXz1aZQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq0L6xoA4IlEibKPhvzDBt0PpRaibR3kyxEjKiaUTX5cliadULoKPOXz1aZQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -231,7 +231,7 @@ ROS1应用已经非常广泛，全球有几百万开发者，大家已经熟悉�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqKGewmnIUHoXXXANwwicfadZiaMKP5FH2J9ZPchiaicdicVQpWv8DibEpy3PA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqKGewmnIUHoXXXANwwicfadZiaMKP5FH2J9ZPchiaicdicVQpWv8DibEpy3PA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -251,7 +251,7 @@ ROS1应用已经非常广泛，全球有几百万开发者，大家已经熟悉�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqGVb5NFGvodt9C8iaPvLzDDGbxUr0g3AmVRPrAFXgNhKAOW6RWaqI1PQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqGVb5NFGvodt9C8iaPvLzDDGbxUr0g3AmVRPrAFXgNhKAOW6RWaqI1PQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
