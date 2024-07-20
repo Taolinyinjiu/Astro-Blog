@@ -22,7 +22,7 @@ tags:
 
 最重要的是，他把这套尚不成熟的操作系统分享到了互联网上，并用自己的名字命名了这套系统，也就是**Linux**。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq9ekLR3CJ3zhEianJowdz4fqJk7Snt0rF6I2SZdfsosibbGrSy606p3jQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq9ekLR3CJ3zhEianJowdz4fqJk7Snt0rF6I2SZdfsosibbGrSy606p3jQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -46,7 +46,7 @@ Linux发展迅猛，已经成为了性能稳定的多用户操作系统，也是
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqeuNthIBtZpibVNqkhku9RLxHTDibhMyczwnnq5HpJbxrAOE5X5iaia0DSg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqeuNthIBtZpibVNqkhku9RLxHTDibhMyczwnnq5HpJbxrAOE5X5iaia0DSg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -54,7 +54,7 @@ Linux发展迅猛，已经成为了性能稳定的多用户操作系统，也是
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqsNlsxhBDPb8jmEbGUrriaIpf1Rmia4gopknXmZZJfUhllJia8T7ju2T2g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqsNlsxhBDPb8jmEbGUrriaIpf1Rmia4gopknXmZZJfUhllJia8T7ju2T2g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -70,7 +70,7 @@ Linux发展迅猛，已经成为了性能稳定的多用户操作系统，也是
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqaAfjU8XRbB6qpqDXIUXwxnfzF1azng6JoxEMtc49e28aDA6yLe85tg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqaAfjU8XRbB6qpqDXIUXwxnfzF1azng6JoxEMtc49e28aDA6yLe85tg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -86,7 +86,7 @@ Ubuntu的版本变动比较快，如何选择合适自己使用的版本很重�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqSUiaHtvgfwjOIGv6TrCvF3pqOtONbDicNHn3iaKVd8WPYaBibiaP6zAlRsw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqSUiaHtvgfwjOIGv6TrCvF3pqOtONbDicNHn3iaKVd8WPYaBibiaP6zAlRsw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -94,7 +94,7 @@ Ubuntu的版本变动比较快，如何选择合适自己使用的版本很重�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqiaqv6r2e2dbKYEDDEicYGyic1fs0t2HBMwRicm71bUAZic7GTdZWO06RBBw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqiaqv6r2e2dbKYEDDEicYGyic1fs0t2HBMwRicm71bUAZic7GTdZWO06RBBw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -106,7 +106,7 @@ Ubuntu的版本变动比较快，如何选择合适自己使用的版本很重�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq0XbptDce5QgNHQCpaBdQIzUxtXjAlW0tibx3EpOBFibrydVqS7b6uplQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq0XbptDce5QgNHQCpaBdQIzUxtXjAlW0tibx3EpOBFibrydVqS7b6uplQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -142,7 +142,7 @@ https://ubuntu.com/download/desktop
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqMQzKbykPREuEAriabRcG8xdFoicJrtYQmXibs1A8q0VQnkH98xILgwqkQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqMQzKbykPREuEAriabRcG8xdFoicJrtYQmXibs1A8q0VQnkH98xILgwqkQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -150,7 +150,7 @@ https://ubuntu.com/download/desktop
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq6Ge6ZMVCia3yE1XGeKWAhuTfPdnlicXrpQgXFh4N1zhBGum5micKH0ucg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq6Ge6ZMVCia3yE1XGeKWAhuTfPdnlicXrpQgXFh4N1zhBGum5micKH0ucg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -158,13 +158,13 @@ https://ubuntu.com/download/desktop
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqfVy9D9xYw9ccSYZgsK5OJYWn46RiaIkSBOEe02TIjXHJANhWa3TkXGA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqfVy9D9xYw9ccSYZgsK5OJYWn46RiaIkSBOEe02TIjXHJANhWa3TkXGA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **4. 设置Ubuntu镜像路径**
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqbDSVPIDKHGkrHWPcstq9ytx6XicBicpCvKTSTvkhbUmH0p5Q8kMp0maQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqbDSVPIDKHGkrHWPcstq9ytx6XicBicpCvKTSTvkhbUmH0p5Q8kMp0maQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -172,7 +172,7 @@ https://ubuntu.com/download/desktop
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqea1tonytRQ4b0B3rRIUXEpUnoyMbx9oVQdEOyPOzMnVxEyak0l7LIA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqea1tonytRQ4b0B3rRIUXEpUnoyMbx9oVQdEOyPOzMnVxEyak0l7LIA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -180,7 +180,7 @@ https://ubuntu.com/download/desktop
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq3YcDOTVHAw3FAACDvU3FicfgetFshXbq8K7oPknvAC21EsRsIhDNwBg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq3YcDOTVHAw3FAACDvU3FicfgetFshXbq8K7oPknvAC21EsRsIhDNwBg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -188,7 +188,7 @@ https://ubuntu.com/download/desktop
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqibOBqEBkbU6V8nRTZMcSPwCiabXUD0faw7HzuNvNiaWQqMuEE3S33jc2A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqibOBqEBkbU6V8nRTZMcSPwCiabXUD0faw7HzuNvNiaWQqMuEE3S33jc2A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -196,7 +196,7 @@ https://ubuntu.com/download/desktop
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqdHIeFsfXxHFUYyHf1WhW2qlDk7JdE4Y3Vjd5lFxuGZfLU4FS7E3SwQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqdHIeFsfXxHFUYyHf1WhW2qlDk7JdE4Y3Vjd5lFxuGZfLU4FS7E3SwQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -298,7 +298,7 @@ $ ros2 run demo_nodes_cpp talker
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq1PbUtRribHbltwy9rSrIpEGhj6HQvqHtOEiaCW8CbBpZMzr7sZx9y99A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZq1PbUtRribHbltwy9rSrIpEGhj6HQvqHtOEiaCW8CbBpZMzr7sZx9y99A/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -314,7 +314,7 @@ $ ros2 run demo_nodes_py listener
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqUlSFE03frk4eEM1mUvdSEed0FHJjQ3ngVzGT5Ydfuqx3WMI8ibHEiaQg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqUlSFE03frk4eEM1mUvdSEed0FHJjQ3ngVzGT5Ydfuqx3WMI8ibHEiaQg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -345,7 +345,7 @@ $ ros2 run turtlesim turtle_teleop_key
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqiaAudy7lmsf8o62wE0QyOmuK4t5gDvCHpp3xxFBWibkWXRwAFc5YRcicg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzslJGialMcqYNEdkD9LaHlZqiaAudy7lmsf8o62wE0QyOmuK4t5gDvCHpp3xxFBWibkWXRwAFc5YRcicg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
