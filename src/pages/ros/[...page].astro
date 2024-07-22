@@ -29,10 +29,10 @@ const { page } = Astro.props;
 
 ---
 <!-- 这段代码是一个组件的 JSX 模板，用于在Astro框架中渲染一个博客页面 -->
-<!-- title="Blog": 这是一个属性，将页面的标题设置为 "Blog" -->
+<!-- title = "title": 这是一个属性，将页面的标题设置为 "title" -->
 <!-- description="Latest articles.": 这是一个属性，提供了页面的描述，可能是用于搜索引擎优化（SEO） -->
-<!-- currentNav="Blog": 这可能是一个属性，指示当前页面在导航菜单中的激活状态或高亮显示的项 -->
-<ScaffoldLayout title="ROS" description="Latest articles." currentNav="ROS">
+<!-- currentNav="title": 这可能是一个属性，指示当前页面在导航菜单中的激活状态或高亮显示的项 -->
+<ScaffoldLayout title="ROS2" description="Latest articles." currentNav="ROS2">
 	<!-- {page.data.map((post) => <PostCard {...post} />)}: 这行代码使用了 map 函数遍历 page.data 数组。-->
 	<!-- 对于数组中的每个元素（假设每个元素都是一个博客帖子的数据对象），它都会渲染一个 PostCard 组件，并将当前帖子的数据作为属性传递给 PostCard。 -->
 	{page.data.map((post) => <PostCard {...post} />)}
