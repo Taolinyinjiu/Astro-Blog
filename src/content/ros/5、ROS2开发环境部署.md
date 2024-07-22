@@ -19,7 +19,7 @@ ROS机器人开发肯定离不开代码编写，我们课程中会给大家提�
 
 git是一个版本管理软件，也是因Linux而生。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEGKSFvkjsABI2hUK6Skru8kksTibpPpvpH0cgZYDeORwyxjArTmTHvhg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEGKSFvkjsABI2hUK6Skru8kksTibpPpvpH0cgZYDeORwyxjArTmTHvhg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -55,7 +55,7 @@ $ git clone https://gitee.com/guyuehome/ros2_21_tutorials.git
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEx0OWCYccSUTsVR48EHkK5lS5CZxrCTrIyib28vYzzyJjQJeIn35HOeg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEx0OWCYccSUTsVR48EHkK5lS5CZxrCTrIyib28vYzzyJjQJeIn35HOeg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -67,7 +67,7 @@ $ git clone https://gitee.com/guyuehome/ros2_21_tutorials.git
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEQsMeIKpe8V9j99rZvicvpmKUQ8XSz09o0GDIa2H5yMf710a2SV4ZZFQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEQsMeIKpe8V9j99rZvicvpmKUQ8XSz09o0GDIa2H5yMf710a2SV4ZZFQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -93,7 +93,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEmap9VnqOMmFQibUUvjlVe5o936OIHC26D22s6KV35r1lqsx7cL5KibFA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEmap9VnqOMmFQibUUvjlVe5o936OIHC26D22s6KV35r1lqsx7cL5KibFA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -101,7 +101,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKESlqaQx8YECr3hkPibyJibh5CDKPPl02X9EKHTT9Wt9iag2VF2RYlBYgkw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKESlqaQx8YECr3hkPibyJibh5CDKPPl02X9EKHTT9Wt9iag2VF2RYlBYgkw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -109,7 +109,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEaZZev3VasbaLfc8sKmriahwkNeWrAdCD6cpsxeKsch7ictje6E5AsC1g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEaZZev3VasbaLfc8sKmriahwkNeWrAdCD6cpsxeKsch7ictje6E5AsC1g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -117,7 +117,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKES0ANic2BgU3vUaFvia4qM9m8YzHeErkNe1ibYxgicsq31vaJYw17bug2cA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKES0ANic2BgU3vUaFvia4qM9m8YzHeErkNe1ibYxgicsq31vaJYw17bug2cA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -125,7 +125,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEib6jOKWj5zaKTk1Aheh1mr88HtYOdqb1hLhUhZ8R9lk4ickEmWuBn4Hw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEib6jOKWj5zaKTk1Aheh1mr88HtYOdqb1hLhUhZ8R9lk4ickEmWuBn4Hw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -133,7 +133,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEeETH5LCpkiaux1LoiaB0z17cBOnqRPWTnl0IgXmMpSibzdR8tNch7C7XA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEeETH5LCpkiaux1LoiaB0z17cBOnqRPWTnl0IgXmMpSibzdR8tNch7C7XA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -141,7 +141,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEHVWL3FBxuWFicDjrqAbrMFGIsIIEu1ibMHK3kD2V5e1edaLM58YbV8pw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEHVWL3FBxuWFicDjrqAbrMFGIsIIEu1ibMHK3kD2V5e1edaLM58YbV8pw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -149,7 +149,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEDibPzBtZjgcsGUOmQXicDwetFYZ2MnlWTF62EqCW9LyrlVJkIxufXTfg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEDibPzBtZjgcsGUOmQXicDwetFYZ2MnlWTF62EqCW9LyrlVJkIxufXTfg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -157,7 +157,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEaicYP7FeZGicXLcSRurpt6RC2Tiaabjp4d09nhAtR2Pevgeb8XVAc7LYw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEaicYP7FeZGicXLcSRurpt6RC2Tiaabjp4d09nhAtR2Pevgeb8XVAc7LYw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
@@ -165,7 +165,7 @@ Visual Studio Code，简称VSCode，是微软在2015年推出的一个轻量但�
 
 
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEjPOjQsJ7X1DVVFDssb65Zsb79EicVNjRZCJiacTliaSyEnPnibE3vJtZPQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_png/ZUHCFZqSZzvF0ZGdbKHLuhq6icqByaicKEjPOjQsJ7X1DVVFDssb65Zsb79EicVNjRZCJiacTliaSyEnPnibE3vJtZPQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
