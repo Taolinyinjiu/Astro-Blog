@@ -9,7 +9,7 @@ import { getPosts } from '~/utils/collection';
 // 定义了 getStaticPaths 函数，用于生成静态页面的路径和属性。
 export async function getStaticPaths() {
 	// 使用 getPosts 函数获取所有文章，然后映射出每个文章的路径参数和属性。
-	return (await getPosts()).map((post) => ({
+	return (await getPosts(false,'asc')).map((post) => ({
 		params: { slug: post.slug },
 		props: post,
 	}));
